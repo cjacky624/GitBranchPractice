@@ -1,0 +1,3 @@
+My name is Jacky.
+I'm in the C#.NET class.
+I'm currently in week 6.
